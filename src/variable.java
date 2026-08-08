@@ -10,7 +10,8 @@ public class variable {
         int z=1;
         System.out.println(z);
 
-        boole
+        double a=1.5;
+        System.out.println(a);
 
     }
 }
