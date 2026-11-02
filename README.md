@@ -1,6 +1,6 @@
 # Master Java for Competitive Programming
 
-A structured Java repository for learning and practicing **competitive programming**, with a focus on mastering Java fundamentals, mathematical operations, algorithms, data structures, and problem-solving techniques.
+A structured Java repository for learning and practising **competitive programming**, with a focus on mastering Java fundamentals, mathematical operations, algorithms, data structures, and problem-solving techniques.
 
 ## 📚 Repository Contents
 
@@ -102,7 +102,7 @@ This repository is intended to help build strong foundations in:
 
 ## 📈 Learning Progress
 
-The repository will continuously evolve as new concepts, algorithms, and competitive programming problems are practiced.
+The repository will continuously evolve as new concepts, algorithms, and competitive programming problems are practised.
 
 ```text
 Java Fundamentals
