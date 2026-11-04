@@ -119,12 +119,3 @@ Problem Solving
        ↓
 Competitive Programming
 ```
-
-## 🤝 Contributions
-
-This repository is primarily maintained as a personal learning and practice repository. Suggestions, improvements, and useful problem-solving approaches are welcome.
-
-## 📄 License
-
-This project is available for educational and learning purposes.
-
